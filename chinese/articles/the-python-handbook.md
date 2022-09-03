@@ -1,15 +1,15 @@
 > -  原文地址：[The Python Handbook](https://www.freecodecamp.org/news/the-python-handbook/)
 > -  原文作者：[Flavio Copes](https://www.freecodecamp.org/news/author/flavio/)
-> -  译者：
+> -  译者：Freidaaaaa
 > -  校对者：
 
 ![The Python Handbook](https://www.freecodecamp.org/news/content/images/size/w2000/2021/03/book.png)
 
-The Python Handbook follows the 80/20 rule: learn 80% of the topic in 20% of the time.
+The Python Handbook follows the 80/20 rule: learn 80% of the topic in 20% of the time.Python手册遵守80/20法则：用20%的时间学习80%的内容。
 
-I find this approach gives a well-rounded overview.
+I find this approach gives a well-rounded overview.我觉得这种学习方式能够构建全面的认识。
 
-This book does not try to cover everything under the sun related to Python. It focuses on the core of the language, trying to simplify the more complex topics.
+This book does not try to cover everything under the sun related to Python. It focuses on the core of the language, trying to simplify the more complex topics.这本书并能不能囊括所有有关Python的知识。
 
 I hope the contents of this book will help you achieve what you want: **learn the basics of Python**.
 
